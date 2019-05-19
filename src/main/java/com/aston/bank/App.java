@@ -150,6 +150,7 @@ public class App
 		compte11.verserInterets();
 		System.out.println(compte11.toString());
 		compte11.retirer(1100);
+		System.out.println(compte11.toString());
 
 	}
 }
